@@ -64,7 +64,7 @@
 
         ![image](https://github.com/SeungYeop-Han/cotejunbi/assets/106862797/a4c75ff1-3be4-4ea1-b224-f03eb15f4c68)
 
-        👉🏻 [문제 링크](https://www.acmicpc.net/problem/11559){:target="_blank"}
+        👉🏻 [문제 링크](https://www.acmicpc.net/problem/11559)
 
         #### 문제 분석 및 접근 방식
 
