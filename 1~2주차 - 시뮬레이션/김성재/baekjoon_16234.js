@@ -16,8 +16,8 @@ while (true) {
     Array.from({ length: N }, () => false)
   );
 
-  for (let i = 0; i < n; i++) {
-    for (let j = 0; j < n; j++) {
+  for (let i = 0; i < N; i++) {
+    for (let j = 0; j < N; j++) {
       if (!visited[i][j]) {
         let queue = [[i, j]];
         let visitedRecord = [[i, j]];
@@ -30,7 +30,7 @@ while (true) {
           for (let k = 0; k < 4; k++) {
             const [nx, ny] = [x + dx[k], y + dy[k]];
 
-            if (nx >= 0 && nx < n && ny >= 0 && ny < n) {
+            if (nx >= 0 && nx < N && ny >= 0 && ny < N) {
               const diff = Math.abs(citys[x][y] - citys[nx][ny]);
               if (diff >= L && diff <= R && !visited[nx][ny]) {
                 visited[nx][ny] = true;
