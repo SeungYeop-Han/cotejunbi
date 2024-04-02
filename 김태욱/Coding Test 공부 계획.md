@@ -1,0 +1,15 @@
+# Coding Test Study Plan
+
+## 개요
+: 코딩테스트를 준비를 하기 전에, **‘자료구조 -> 알고리즘’** 순서대로 공부할 예정
+※ **자료구조에 대해서 깊이 알지 못함. (동작방식은 아나, 알고리즘에 적용해서 문제를 풀지 X)**
+
+## 계획
+‘동빈나의 실전 알고리즘’ 유튜브를 보고 공부할 예정.<br/>
+[동빈나의 실전 알고리즘 플레이리스트](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
+
+
+
+
+
+
